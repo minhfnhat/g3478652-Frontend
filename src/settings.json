@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Streamline your tasks and optimize productivity in the modern workplace.",
+        "title": "Revolutionize Your Workflow"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Streamline your tasks and optimize productivity in the modern workplace.",
+        "title": "Revolutionize Your Workflow"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Streamline your tasks and optimize productivity in the modern workplace.",
+        "title": "Revolutionize Your Workflow"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Streamline your tasks and optimize productivity in the modern workplace.",
+        "title": "Revolutionize Your Workflow"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Streamline your tasks and optimize productivity in the modern workplace.",
+        "title": "Revolutionize Your Workflow"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Streamline your tasks and optimize productivity in the modern workplace.",
+        "title": "Revolutionize Your Workflow"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Streamline your tasks and optimize productivity in the modern workplace.",
+        "title": "Revolutionize Your Workflow"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Streamline your tasks and optimize productivity in the modern workplace.",
+        "title": "Revolutionize Your Workflow"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Streamline your tasks and optimize productivity in the modern workplace.",
+        "title": "Revolutionize Your Workflow"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Revolutionize Your Workflow",
+  "subtitle": "Streamline your tasks and optimize productivity in the modern workplace."
+}
